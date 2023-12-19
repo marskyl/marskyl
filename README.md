@@ -1,16 +1,15 @@
-### Hi there 👋
+👨‍🎓・beginner in programming
+📧・marskyl#6005
+🔊・ 15y & speak french n english
 
-<!--
-**marskyl/marskyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌──(user@marskyl)-[~]
+└─$>cd socialnetworks
 
-Here are some ideas to get you started:
+P̲r̲o̲f̲i̲l̲s̲ :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1・sharing & news
+2 sharing soon open source
+2・sharing templates projects
+
+┌──(user@dev)-[~]
+└─$>exit 😹
