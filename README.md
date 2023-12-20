@@ -1,12 +1,9 @@
 👨‍🎓・beginner in programming
-
 📧・marskyl#6005
-
 🔊・ 15y & speak french n english
 
 
 ┌──(user@marskyl)-[~]
-
 └─$>cd socialnetworks
 
 
@@ -21,5 +18,4 @@ P̲r̲o̲f̲i̲l̲s̲ :
 
 
 ┌──(user@dev)-[~]
-
 └─$>exit 😹
