@@ -1,6 +1,6 @@
 👨‍🎓・beginner in programming
 
-📧・marskyl#6005
+📧・.gg/intrusial
 
 🔊・ 15y & speak french n english
 
